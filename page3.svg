@@ -474,7 +474,9 @@
          sodipodi:role="line"
          x="262.68848"
          y="559.83435"
-         id="tspan8439">and applied it to *infinite* states?</tspan><tspan
+         id="tspan8439">and applied it to <tspan
+   style="font-style:italic;-inkscape-font-specification:Century Schoolbook L Italic"
+   id="tspan24122">infinite</tspan> states?</tspan><tspan
          sodipodi:role="line"
          x="262.68848"
          y="589.83435"
@@ -490,39 +492,41 @@
          sodipodi:role="line"
          x="262.68848"
          y="679.83435"
-         id="tspan8449">not to a value but to a <tspan
+         id="tspan8483">not to a value but to a <tspan
    style="font-style:italic;-inkscape-font-specification:Century Schoolbook L Italic"
-   id="tspan8511">function</tspan>, like f(N)=3N</tspan><tspan
+   id="tspan8511">function</tspan>, like f(N) =</tspan><tspan
          sodipodi:role="line"
          x="262.68848"
          y="710.28839"
-         id="tspan8483">or f(N)=N^2.  In fact, this fundamentally</tspan><tspan
+         id="tspan24036">3N or f(N) = N<tspan
+   style="font-size:65.00091553%;baseline-shift:super"
+   id="tspan24026">2</tspan>.  In fact, this fundamentally</tspan><tspan
          sodipodi:role="line"
          x="262.68848"
          y="740.28839"
-         id="tspan8471">makes more sense than assigning a value to</tspan><tspan
+         id="tspan8473">makes more sense than assigning a value to</tspan><tspan
          sodipodi:role="line"
          x="262.68848"
          y="770.28839"
-         id="tspan8473">an infinite expectation because we usually</tspan><tspan
+         id="tspan24048">an infinite expectation because we usually</tspan><tspan
          sodipodi:role="line"
          x="262.68848"
          y="800.28839"
-         id="tspan8475">describe expectation values in terms of, say,</tspan><tspan
+         id="tspan24056">describe expectation values in terms of, say,</tspan><tspan
          sodipodi:role="line"
          x="262.68848"
          y="830.28839"
-         id="tspan8503">energy <tspan
+         id="tspan8481">energy <tspan
    style="font-style:italic;-inkscape-font-specification:Century Schoolbook L Italic"
    id="tspan8513">per site</tspan>, which is exactly saying that</tspan><tspan
          sodipodi:role="line"
          x="262.68848"
          y="860.74237"
-         id="tspan8479">the energy is equal to f(N)=EN where E is the</tspan><tspan
+         id="tspan24112">the energy is equal to f(N)=EN where E is</tspan><tspan
          sodipodi:role="line"
          x="262.68848"
          y="890.74237"
-         id="tspan8481">energy per site!</tspan><tspan
+         id="tspan24120">the energy per site!</tspan><tspan
          sodipodi:role="line"
          x="262.68848"
          y="920.74237"
@@ -553,7 +557,9 @@
          y="499.83435"
          x="790.68848"
          sodipodi:role="line"
-         id="tspan5679">Furthermore, if we let M = S^*OS be the</tspan><tspan
+         id="tspan5679">Furthermore, if we let M = S<tspan
+   style="font-size:65.00091553%;baseline-shift:super"
+   id="tspan24124">*</tspan>OS be the</tspan><tspan
          y="526.23438"
          x="790.68848"
          sodipodi:role="line"
@@ -565,7 +571,9 @@
          y="579.03436"
          x="790.68848"
          sodipodi:role="line"
-         id="tspan8692">M^N in closed form by taking advantage of</tspan><tspan
+         id="tspan8692">M<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan24126">N</tspan> in closed form by taking advantage of</tspan><tspan
          y="605.43433"
          x="790.68848"
          sodipodi:role="line"

@@ -238,7 +238,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -926,7 +926,7 @@
          y="981.83435"
          x="790.68848"
          sodipodi:role="line"
-         id="tspan8062">sequence of expectation values --- one for</tspan><tspan
+         id="tspan8062">sequence of expectation values — one for</tspan><tspan
          y="1011.8344"
          x="790.68848"
          sodipodi:role="line"

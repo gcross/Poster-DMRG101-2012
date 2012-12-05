@@ -744,11 +744,11 @@
          y="605.43433"
          x="790.68848"
          sodipodi:role="line"
-         id="tspan9599">down) then you get the function f(N)=1</tspan><tspan
+         id="tspan9599">down) then you get the function f(N) = 1</tspan><tspan
          y="631.83435"
          x="790.68848"
          sodipodi:role="line"
-         id="tspan9601">when N=1 and 0 otherwise, despite the</tspan><tspan
+         id="tspan9601">when N = 1 and 0 otherwise, despite the</tspan><tspan
          y="658.23438"
          x="790.68848"
          sodipodi:role="line"
@@ -756,7 +756,7 @@
          y="684.63434"
          x="790.68848"
          sodipodi:role="line"
-         id="tspan9605">have zero overlap --- that's no good!</tspan><tspan
+         id="tspan9605">have zero overlap — that's no good!</tspan><tspan
          y="711.03436"
          x="790.68848"
          sodipodi:role="line"
@@ -930,19 +930,21 @@
          id="tspan9520"
          y="799.83435"
          x="262.68848"
-         sodipodi:role="line">That is, we use the L and R tensors as we did</tspan><tspan
+         sodipodi:role="line">That is, we use the L and R tensors as we</tspan><tspan
          y="829.83435"
          x="262.68848"
          sodipodi:role="line"
-         id="tspan9526">when computing the expectation values of</tspan><tspan
+         id="tspan9526">did when computing the expectation values</tspan><tspan
          y="859.83435"
          x="262.68848"
          sodipodi:role="line"
-         id="tspan9528">the state families.  This in particular tells us</tspan><tspan
+         id="tspan9528">of the state families.  This in particular tells</tspan><tspan
          y="889.83435"
          x="262.68848"
          sodipodi:role="line"
-         id="tspan9532">which components of M^N (from page 3)</tspan><tspan
+         id="tspan9532">us which components of M<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan24140">N</tspan> (from page 3)</tspan><tspan
          y="919.83435"
          x="262.68848"
          sodipodi:role="line"

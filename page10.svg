@@ -1782,7 +1782,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.79729472"
      inkscape:cx="565.31391"
-     inkscape:cy="315.57501"
+     inkscape:cy="365.74466"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1809,28 +1809,28 @@
     <text
        xml:space="preserve"
        style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
-       x="525.60101"
+       x="528.88812"
        y="412.03296"
        id="text3755"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3757"
-         x="525.60101"
+         x="528.88812"
          y="412.03296">9. Exciting Results!!!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
        x="526.36859"
-       y="526.27496"
+       y="506.27502"
        id="text2987"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="526.36859"
-         y="526.27496"
+         y="506.27502"
          id="tspan22363">The set of matrix product state families is equal to</tspan><tspan
          sodipodi:role="line"
          x="526.36859"
-         y="566.27496"
+         y="546.27502"
          id="tspan22981">the set of rational state families!</tspan></text>
     <text
        sodipodi:linespacing="125%"
@@ -1846,15 +1846,15 @@
     <text
        sodipodi:linespacing="125%"
        id="text22973"
-       y="666.27496"
+       y="624.7207"
        x="526.36859"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
        xml:space="preserve"><tspan
          id="tspan22975"
-         y="666.27496"
+         y="624.7207"
          x="526.36859"
          sodipodi:role="line">The set of infinite matrix product states is equal to</tspan><tspan
-         y="706.27496"
+         y="664.7207"
          x="526.36859"
          sodipodi:role="line"
          id="tspan22983">the set of rational infinite states!</tspan></text>
@@ -1895,33 +1895,44 @@
     <text
        xml:space="preserve"
        style="font-size:28px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Medium"
-       x="526.24371"
+       x="526.80188"
        y="821.66766"
        id="text2987-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="526.24371"
+         x="526.80188"
          y="821.66766"
          id="tspan23036">There are two significant implications of these results.  First, we</tspan><tspan
          sodipodi:role="line"
-         x="526.24371"
+         x="526.80188"
          y="856.66766"
          id="tspan23038">have fully characterized the set of matrix product state families</tspan><tspan
          sodipodi:role="line"
-         x="526.24371"
+         x="526.80188"
          y="891.66766"
          id="tspan23042">and the set of infinite matrix product states in terms of the closure</tspan><tspan
          sodipodi:role="line"
-         x="526.24371"
+         x="526.80188"
          y="926.66766"
          id="tspan23048">of rational operators on state families.  Second, conversely, we have</tspan><tspan
          sodipodi:role="line"
-         x="526.24371"
+         x="526.80188"
          y="961.66766"
          id="tspan23080">obtained a means of defining expectation functions on a well-</tspan><tspan
          sodipodi:role="line"
-         x="526.24371"
+         x="526.80188"
          y="996.66766"
          id="tspan23072">characterized subset of infinite states by using matrix product states.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Medium"
+       x="526.17609"
+       y="740.50549"
+       id="text24142"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan24144"
+         x="526.17609"
+         y="740.50549">(see arXiv:1208.0659: &quot;Embracing divergince...&quot; by G. Crosswhite)</tspan></text>
   </g>
 </svg>

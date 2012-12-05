@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="page8.svg">
+   sodipodi:docname="page9.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -1797,7 +1797,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1883,7 +1883,7 @@
          id="tspan22379"
          y="767.31628"
          x="40.486553"
-         sodipodi:role="line">3. Given any two rational state families, the product ---</tspan><tspan
+         sodipodi:role="line">3. Given any two rational state families, the product —</tspan><tspan
          y="812.31628"
          x="40.486553"
          sodipodi:role="line"
@@ -1895,7 +1895,7 @@
          y="902.31628"
          x="40.486553"
          sodipodi:role="line"
-         id="tspan22412">    family --- is a rational state family.</tspan></text>
+         id="tspan22412">    family — is a rational state family.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:36px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Medium"
