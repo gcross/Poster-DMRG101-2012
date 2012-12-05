@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="page6.svg">
+   sodipodi:docname="page5.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -1700,7 +1700,7 @@
          id="tspan14943"
          y="499.83435"
          x="786.68848"
-         sodipodi:role="line">where the star operator for states is</tspan></text>
+         sodipodi:role="line">where the * operator for states is</tspan></text>
     <g
        id="g15368"
        transform="matrix(0.99,0,0,0.99,19.776636,27.431402)">
@@ -1990,15 +1990,13 @@
          id="tspan16408"
          y="679.83435"
          x="262.68848"
-         sodipodi:role="line">(Note our use of the <tspan
-   id="tspan16410"
-   style="font-style:italic;-inkscape-font-specification:Century Schoolbook L Italic">star</tspan> operator, defined</tspan><tspan
+         sodipodi:role="line">(Note our use of the * operator, defined</tspan><tspan
          id="tspan16412"
-         y="710.28839"
+         y="709.83435"
          x="262.68848"
          sodipodi:role="line">above, which constructs a state family from</tspan><tspan
          id="tspan16420"
-         y="740.28839"
+         y="739.83435"
          x="262.68848"
          sodipodi:role="line">an arbitrary Hilbert space.)</tspan></text>
     <text
