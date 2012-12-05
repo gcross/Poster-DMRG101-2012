@@ -430,7 +430,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -479,61 +479,61 @@
    id="tspan24122">infinite</tspan> states?</tspan><tspan
          sodipodi:role="line"
          x="262.68848"
-         y="589.83435"
+         y="590.28839"
          id="tspan8441" /><tspan
          sodipodi:role="line"
          x="262.68848"
-         y="619.83435"
+         y="620.74237"
          id="tspan8455">That is, how about we let the expected value</tspan><tspan
          sodipodi:role="line"
          x="262.68848"
-         y="649.83435"
+         y="650.74237"
          id="tspan8445">of an infinite matrix product state be equal</tspan><tspan
          sodipodi:role="line"
          x="262.68848"
-         y="679.83435"
+         y="680.74237"
          id="tspan8483">not to a value but to a <tspan
    style="font-style:italic;-inkscape-font-specification:Century Schoolbook L Italic"
    id="tspan8511">function</tspan>, like f(N) =</tspan><tspan
          sodipodi:role="line"
          x="262.68848"
-         y="710.28839"
+         y="711.19641"
          id="tspan24036">3N or f(N) = N<tspan
    style="font-size:65.00091553%;baseline-shift:super"
    id="tspan24026">2</tspan>.  In fact, this fundamentally</tspan><tspan
          sodipodi:role="line"
          x="262.68848"
-         y="740.28839"
+         y="741.19641"
          id="tspan8473">makes more sense than assigning a value to</tspan><tspan
          sodipodi:role="line"
          x="262.68848"
-         y="770.28839"
+         y="771.19641"
          id="tspan24048">an infinite expectation because we usually</tspan><tspan
          sodipodi:role="line"
          x="262.68848"
-         y="800.28839"
+         y="801.19641"
          id="tspan24056">describe expectation values in terms of, say,</tspan><tspan
          sodipodi:role="line"
          x="262.68848"
-         y="830.28839"
+         y="831.19641"
          id="tspan8481">energy <tspan
    style="font-style:italic;-inkscape-font-specification:Century Schoolbook L Italic"
    id="tspan8513">per site</tspan>, which is exactly saying that</tspan><tspan
          sodipodi:role="line"
          x="262.68848"
-         y="860.74237"
-         id="tspan24112">the energy is equal to f(N)=EN where E is</tspan><tspan
+         y="861.65039"
+         id="tspan24112">the energy is equal to f(N) = EN where E is</tspan><tspan
          sodipodi:role="line"
          x="262.68848"
-         y="890.74237"
+         y="891.65039"
          id="tspan24120">the energy per site!</tspan><tspan
          sodipodi:role="line"
          x="262.68848"
-         y="920.74237"
+         y="921.65039"
          id="tspan8515" /><tspan
          sodipodi:role="line"
          x="262.68848"
-         y="950.74237"
+         y="951.65039"
          id="tspan8523" /></text>
     <path
        sodipodi:nodetypes="cc"
@@ -696,7 +696,7 @@
          sodipodi:role="line">=</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 738.35669,634.88477 -21.28504,0 0,193.03239 21.28504,0"
+       d="m 738.07087,634.88477 -20.99922,0 0,193.03239 21.28504,0"
        id="path8733"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -838,7 +838,7 @@
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path8791"
-       d="m 1003.0716,634.88477 21.2851,0 0,193.03239 -21.2851,0"
+       d="m 1003.0716,634.88477 21.2851,0 0,193.03239 -21.6008,0"
        style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <text
        xml:space="preserve"

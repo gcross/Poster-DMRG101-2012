@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="page9.svg">
+   sodipodi:docname="page10.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -1781,8 +1781,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.79729472"
-     inkscape:cx="254.21809"
-     inkscape:cy="315.57501"
+     inkscape:cx="565.31391"
+     inkscape:cy="365.74466"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1797,7 +1797,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1809,29 +1809,29 @@
     <text
        xml:space="preserve"
        style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
-       x="525.60101"
+       x="528.88812"
        y="412.03296"
        id="text3755"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3757"
-         x="525.60101"
-         y="412.03296">7. Rational State Families</tspan></text>
+         x="528.88812"
+         y="412.03296">9. Exciting Results!!!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Medium"
-       x="40.486553"
-       y="466.27496"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+       x="526.36859"
+       y="506.27502"
        id="text2987"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="40.486553"
-         y="466.27496"
-         id="tspan12763">There is a very important set of state families which we shall call rational state families.</tspan><tspan
+         x="526.36859"
+         y="506.27502"
+         id="tspan22363">The set of matrix product state families is equal to</tspan><tspan
          sodipodi:role="line"
-         x="40.486553"
-         y="496.27496"
-         id="tspan22363">This is defined to be the smallest set with the following closure properties:</tspan></text>
+         x="526.36859"
+         y="546.27502"
+         id="tspan22981">the set of rational state families!</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4889"
@@ -1845,71 +1845,94 @@
          id="tspan13193" /></text>
     <text
        sodipodi:linespacing="125%"
-       id="text22365"
-       y="556.2749"
-       x="40.486553"
-       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Medium"
+       id="text22973"
+       y="624.7207"
+       x="526.36859"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
        xml:space="preserve"><tspan
-         id="tspan22369"
-         y="556.2749"
-         x="40.486553"
-         sodipodi:role="line">1. All state families with finitely many terms are rational</tspan><tspan
-         y="601.2749"
-         x="40.486553"
+         id="tspan22975"
+         y="624.7207"
+         x="526.36859"
+         sodipodi:role="line">The set of infinite matrix product states is equal to</tspan><tspan
+         y="664.7207"
+         x="526.36859"
          sodipodi:role="line"
-         id="tspan22400">    state families.</tspan></text>
+         id="tspan22983">the set of rational infinite states!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Medium"
-       x="40.486553"
-       y="658.3576"
-       id="text22373"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="40.486553"
-         y="658.3576"
-         id="tspan22375">2. Given any two rational state families, the sum is a</tspan><tspan
-         sodipodi:role="line"
-         x="40.486553"
-         y="703.3576"
-         id="tspan22402">    rational state family.</tspan></text>
-    <text
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+       x="190.64468"
+       y="466.90714"
+       id="text22985"
        sodipodi:linespacing="125%"
-       id="text22377"
-       y="767.31628"
-       x="40.486553"
-       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Medium"
-       xml:space="preserve"><tspan
-         id="tspan22379"
-         y="767.31628"
-         x="40.486553"
-         sodipodi:role="line">3. Given any two rational state families, the product —</tspan><tspan
-         y="812.31628"
-         x="40.486553"
+       transform="translate(0,308.26769)"><tspan
          sodipodi:role="line"
-         id="tspan22381">    that is, the result of taking the tensor product of each</tspan><tspan
-         y="857.31628"
-         x="40.486553"
-         sodipodi:role="line"
-         id="tspan22383">    term in the first family with each term in the second</tspan><tspan
-         y="902.31628"
-         x="40.486553"
-         sodipodi:role="line"
-         id="tspan22412">    family — is a rational state family.</tspan></text>
+         id="tspan22987"
+         x="190.64468"
+         y="466.90714" /></text>
     <text
        xml:space="preserve"
-       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Medium"
-       x="40.486553"
-       y="966.27496"
-       id="text22385"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+       x="141.72926"
+       y="527.11072"
+       id="text22989"
+       sodipodi:linespacing="125%"
+       transform="translate(0,308.26769)"><tspan
+         sodipodi:role="line"
+         id="tspan22991"
+         x="141.72926"
+         y="527.11072" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+       x="139.22079"
+       y="557.21252"
+       id="text22993"
+       sodipodi:linespacing="125%"
+       transform="translate(0,308.26769)"><tspan
+         sodipodi:role="line"
+         id="tspan22995"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Medium"
+       x="526.80188"
+       y="821.66766"
+       id="text2987-8"
        sodipodi:linespacing="125%"><tspan
-         id="tspan22391"
          sodipodi:role="line"
-         x="40.486553"
-         y="966.27496">4. Given any rational state family without a size 0 term,</tspan><tspan
+         x="526.80188"
+         y="821.66766"
+         id="tspan23036">There are two significant implications of these results.  First, we</tspan><tspan
          sodipodi:role="line"
-         x="40.486553"
-         y="1011.275"
-         id="tspan22398">    the * of the state family is a rational state family.</tspan></text>
+         x="526.80188"
+         y="856.66766"
+         id="tspan23038">have fully characterized the set of matrix product state families</tspan><tspan
+         sodipodi:role="line"
+         x="526.80188"
+         y="891.66766"
+         id="tspan23042">and the set of infinite matrix product states in terms of the closure</tspan><tspan
+         sodipodi:role="line"
+         x="526.80188"
+         y="926.66766"
+         id="tspan23048">of rational operators on state families.  Second, conversely, we have</tspan><tspan
+         sodipodi:role="line"
+         x="526.80188"
+         y="961.66766"
+         id="tspan23080">obtained a means of defining expectation functions on a well-</tspan><tspan
+         sodipodi:role="line"
+         x="526.80188"
+         y="996.66766"
+         id="tspan23072">characterized subset of infinite states by using matrix product states.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Medium"
+       x="526.17609"
+       y="740.50549"
+       id="text24142"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan24144"
+         x="526.17609"
+         y="740.50549">(see arXiv:1208.0659: &quot;Embracing divergince...&quot; by G. Crosswhite)</tspan></text>
   </g>
 </svg>
