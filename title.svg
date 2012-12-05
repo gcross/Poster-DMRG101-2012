@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   id="svg24146"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="New document 91">
+  <defs
+     id="defs24148" />
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.43415836"
+     inkscape:cx="177.9019"
+     inkscape:cy="380"
+     inkscape:current-layer="layer1"
+     id="namedview24150"
+     showgrid="false" />
+  <metadata
+     id="metadata24152">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Bold Italic"
+       x="526.6142"
+       y="286.58017"
+       id="text24155"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="526.6142"
+         y="286.58017"
+         id="tspan24159">Algebraic Characterization of</tspan><tspan
+         sodipodi:role="line"
+         x="526.6142"
+         y="356.58017"
+         id="tspan24163">Infinite Matrix Product States</tspan><tspan
+         sodipodi:role="line"
+         x="526.6142"
+         y="426.58017"
+         id="tspan24165">in Terms of Rational Operators</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Medium"
+       x="527.0451"
+       y="674.60754"
+       id="text24167"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan24169"
+         x="527.0451"
+         y="674.60754">by Gregory Crosswhite</tspan></text>
+  </g>
+</svg>
